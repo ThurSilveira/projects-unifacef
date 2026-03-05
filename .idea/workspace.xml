@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87e5bd79-989a-44f9-8635-11bcab8b7a0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/Placar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/Streaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/TestaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/TestePlacar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/TesteStreaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paradigmas-programação-I/encapsulamento/src/TestaSmartTv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/.idea/paradigmas-programação-I.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/classeObjeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/TestaCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/paradigmas-programação-I/classeObjeto/src/TestaCarro.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ThurSilveira&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ThurSilveira/projects-unifacef.git&quot;,
+    &quot;accountId&quot;: &quot;c36dc1d0-6a50-4ce6-94bf-1ba8fe078307&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39aYYzsW6hA6Pp6FcCVc1rDpa8d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.aula.2.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.aula1.2.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.aula3.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.objetosClasses.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.pilha.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/arthursilveira/Desktop/projects-unifacef&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Rainbow Brackets&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Node.js.pilha.js">
+    <configuration name="aula1.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/estrutura-dados-I/aula1.2.js" working-dir="$PROJECT_DIR$/estrutura-dados-I">
+      <method v="2" />
+    </configuration>
+    <configuration name="objetosClasses.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/estrutura-dados-I/objetosClasses.js" working-dir="$PROJECT_DIR$/estrutura-dados-I">
+      <method v="2" />
+    </configuration>
+    <configuration name="pilha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/estrutura-dados-I/pilha.js" working-dir="$PROJECT_DIR$/estrutura-dados-I">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.pilha.js" />
+        <item itemvalue="Node.js.aula1.2.js" />
+        <item itemvalue="Node.js.objetosClasses.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e5bd79-989a-44f9-8635-11bcab8b7a0c" name="Changes" comment="" />
+      <created>1770935699708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770935699708</updated>
+      <workItem from="1770935700757" duration="2953000" />
+      <workItem from="1771179678979" duration="797000" />
+      <workItem from="1771255991216" duration="645000" />
+      <workItem from="1772058454244" duration="4693000" />
+      <workItem from="1772144148821" duration="3606000" />
+      <workItem from="1772663487645" duration="1894000" />
+      <workItem from="1772665418091" duration="2033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
